@@ -12,7 +12,7 @@ const INFO = {
 	},
 
 	about: {
-		title: "I'm Kai, an Architect, Urban Scientist, Full-stack developer, and a Cat person.",
+		title: "I'm Kai, an Architect, Urban Scientist, Full-stack Developer, and a Cat Person.",
 		description:
 			"I am a PhD candidate at the School of Architecture, South China University of Technology, with two years of professional experience as an architect. I was a visiting student at the MIT Media Lab, where I collaborated with the MIT City Science group in 2023-2024. My research focuses on creating innovative tools for urban planning, including case-based design system and agent-based model. As a developer, I am the principal contributor to the CityFlow platform. This platform empower urban researchers to develop workflows and craft data-driven solutions to address complex urban challenges.",
 		links: [
