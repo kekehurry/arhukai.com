@@ -28,7 +28,7 @@ const INFO = {
 	},
 
 	projects: {
-		title: "Things I've Built Shaping My Vision for the Future",
+		title: "My Passion and Things I've Built",
 		description:
 			"Over the years, I’ve worked on a range of projects that reflect my passion for advancing urban planning and design through innovative tools and systems. Many of them are open-source, inviting exploration, collaboration, and contributions from others. I believe in the power of collective creativity, and I’m always eager to hear fresh perspectives, ideas, and feedback. If any of these projects resonate with you, feel free to dive in and join the conversation!",
 	},
