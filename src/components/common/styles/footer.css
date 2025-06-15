@@ -14,7 +14,9 @@
 }
 
 .footer-links {
-	margin-left: -40px;
+	text-decoration: none;
+	margin-left: 10px;
+	color: var(--tertiary-color);
 }
 
 .footer-nav-link-list {

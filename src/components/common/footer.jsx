@@ -28,8 +28,11 @@ const Footer = () => {
 				</div> */}
 
 				<div className="footer-credits">
-					<div className="footer-credits-text">
+					<div className="footer-credits-text ">
 						{`© ${new Date().getFullYear()} Kai Hu All Rights Reserved.`}
+						<a className="footer-links" href="http://beian.miit.gov.cn/">
+						粤ICP备2024348108号-2
+						</a>
 					</div>
 				</div>
 			</div>
