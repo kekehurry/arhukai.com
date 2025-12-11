@@ -14,11 +14,11 @@ const INFO = {
 	about: {
 		title: "I'm Kai, an Architect, Urban Scientist, Full-stack Developer, and a Cat Person.",
 		description:
-			"I am a PhD candidate at the School of Architecture, South China University of Technology, with two years of professional experience as an architect. I was a visiting student at the MIT Media Lab, where I collaborated with the MIT City Science group in 2023-2024. My research focuses on creating innovative tools for urban planning, including case-based design system and agent-based model. As a developer, I am the principal contributor to the CityFlow platform. This platform empower urban researchers to develop workflows and craft data-driven solutions to address complex urban challenges.",
+			"I hold a PhD from the School of Architecture at South China University of Technology, where I built a strong foundation in urban planning and the integration of artificial intelligence into urban contexts. I bring two years of professional experience as an urban planner and previously served as a Visiting Student at the MIT Media Lab, where I collaborated with the City Science group. My research focuses on developing innovative tools for urban planning, including case-based design systems and human-centered agent-based models for urban simulation. Currently, as the creator of the CityFlow Platform, I am spearheading the creation of a low-code development platform powered by Large Language Models (LLMs). This platform empowers urban researchers to design expert workflows and craft data-driven solutions to tackle complex city challenges.",
 		links: [
 			{
 				text: ">    My Resume",
-				url: "/resume.pdf",
+				url: "/Kai_s_CV.pdf",
 			},
 			{
 				text: "> CityFlow Platform",

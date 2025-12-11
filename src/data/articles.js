@@ -1,11 +1,29 @@
 const myArticles = [
 	{
-		date: "December 2024",
+		date: "Aug 2025",
+		title: "Graph RAG as Human Choice Model: Building a Data-Driven Mobility Agent with Preference Chain",
+		publication:
+			"Environment and Planning B: Urban Analytics and City Science",
+		url: "https://arxiv.org/abs/2508.16172",
+		description:
+			"Understanding human behavior in urban environments is a crucial field within city sciences. However, collecting accurate behavioral data, particularly in newly developed areas, poses significant challenges. Recent advances in generative agents, powered by Large Language Models (LLMs), have shown promise in simulating human behaviors without relying on extensive datasets...",
+	},
+	{
+		date: "July 2025",
 		title: "TravelAgent: Generative Agents in the Built Environment",
-		publication: "arXiv preprint",
-		url: "https://doi.org/10.48550/arXiv.2412.18985",
+		publication:
+			"Environment and Planning B: Urban Analytics and City Science",
+		url: "https://journals.sagepub.com/doi/full/10.1177/23998083251360458",
 		description:
 			"Understanding human behavior in built environments is critical for designing functional, user centered urban spaces. Traditional approaches, such as manual observations, surveys, and simplified simulations, often fail to capture the complexity and dynamics of real world behavior. To address these limitations, we introduce TravelAgent, a novel simulation platform that models pedestrian navigation and activity patterns across diverse indoor and outdoor environments under varying contextual and environmental conditions...",
+	},
+	{
+		date: "May 2025",
+		title: "Generative Agents in Agent-Based Modeling: Overview, Validation, and Emerging Challenges",
+		publication: "IEEE Transactions on Artificial Intelligence",
+		url: "https://ieeexplore.ieee.org/abstract/document/10985773",
+		description:
+			"The advent of generative agents (GAs) based on large language models (LLMs) has significantly influenced the evolution of agent-based modeling (ABM), offering new perspectives across various domains, including engineering and social sciences. This article provides an extensive overview of the integration of GAs into ABMs, emphasizing the advancements and emerging challenges in their validation. Traditional ABMs, characterized by their simplistic yet powerful approach to modeling complex systems, have been redefined with the introduction of GAs...",
 	},
 	{
 		date: "August 2024",
