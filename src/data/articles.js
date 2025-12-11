@@ -2,8 +2,7 @@ const myArticles = [
 	{
 		date: "Aug 2025",
 		title: "Graph RAG as Human Choice Model: Building a Data-Driven Mobility Agent with Preference Chain",
-		publication:
-			"Environment and Planning B: Urban Analytics and City Science",
+		publication: "arXiv preprint",
 		url: "https://arxiv.org/abs/2508.16172",
 		description:
 			"Understanding human behavior in urban environments is a crucial field within city sciences. However, collecting accurate behavioral data, particularly in newly developed areas, poses significant challenges. Recent advances in generative agents, powered by Large Language Models (LLMs), have shown promise in simulating human behaviors without relying on extensive datasets...",
